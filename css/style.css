@@ -1,0 +1,58 @@
+/*==================   NORMALISE   ==================*/
+* {
+	margin: 0;
+	padding: 0;
+	color: #000000;
+	font-family: Arial, Tahoma, Sans-Serif;
+	font-weight: normal;
+	text-decoration: none;
+}
+body {
+	background-color: #cacaca;
+}
+
+
+/*==================   TABLE INIT   ==================*/
+table {
+	margin: 0 auto;
+	background: #ffffff;
+	border-collapse: collapse;
+}
+caption {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	font-size: 18px;
+	text-shadow: 0.5px 0.5px 0px #7e7e7e;
+}
+td {
+	border: 11px solid #000000;
+}
+
+
+/*==================   BORDER FOR CELLS   ==================*/
+.col1 {height: 52px;}
+.col2 {height: 137px; width: 54px;}
+.col3 {height: 277px;}
+.col4 {width: 89px;}
+.col5 {width: 79px;}
+.col6 {height: 73px; width: 67px;}
+.col7 {width: 76px;}
+.col8 {width: 135px;}
+.col9 {height: 65px;}
+.col10 {height: 39px;}
+.col11 {height: 35px;}
+
+
+
+/*==================   BORDER FOR CELLS   ==================*/
+.nobr-top {border-top: none;}
+.nobr-left {border-left: none;}
+.nobr-right {border-right: none;}
+.nobr-bottom {border-bottom: none;}
+
+
+/*==================   COLOR FOR CELLS   ==================*/
+.yellow {background: #ffee62;}
+.red {background: #ff573d;}
+.black {background: #0b0b0b;}
+.blue {background: #064581;}
